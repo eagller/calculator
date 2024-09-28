@@ -24,7 +24,7 @@ body{
 
 input{
     width: 320px;
-    border:solid rgb(255, 26, 26);
+    border: 1px solid #ffffff;
     padding: 24px;
     margin: 10px;
     background: transparent;

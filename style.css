@@ -24,7 +24,7 @@ body{
 
 input{
     width: 320px;
-    border: none;
+    border:solid rgb(255, 26, 26);
     padding: 24px;
     margin: 10px;
     background: transparent;
@@ -33,6 +33,7 @@ input{
     text-align: right;
     cursor: pointer;
     color: #ffffff;
+    bor
 }
 
 input::placeholder{

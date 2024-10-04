@@ -68,4 +68,9 @@ button{
     width: 60px;
 }
 
+@media(max-width: 162px){
+    .calculator{
+        transform: scale(0.5);
+    }
+}
 /*  linear-gradient(45deg,#0a0a0a,#3a4452) */

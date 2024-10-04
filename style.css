@@ -70,7 +70,7 @@ button{
 
 @media(max-width: 162px){
     .calculator{
-        transform: scale(0.4);
+        transform: scale(0.3);
     }
 }
 /*  linear-gradient(45deg,#0a0a0a,#3a4452) */
